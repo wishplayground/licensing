@@ -1,0 +1,5 @@
+**/target         (** any where in directory)
+**/out
+**/.idea
+**/.vscode
+**/*.iml
